@@ -1,0 +1,20 @@
+{
+  "name": "456-cli-number-guessing-game",
+  "type":"module",
+  "version": "1.0.0",
+  "description": "Made a number guessing game by using Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.19"
+  }
+}
